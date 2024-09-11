@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgba(156, 226, 132, 0.752);
+  font-family: "Montserrat Subrayada", sans-serif;
+}
+
+img {
+  width: 65vw;
+  height: 60vh;
+  margin: 10px;
+}
+
+h1 {
+  font-family: "Montagu Slab", serif;
+}
+
+main {
+  padding-left: 20px;
+}/*# sourceMappingURL=style.css.map */

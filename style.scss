@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(156, 226, 132, 0.752);
+    font-family: "Montserrat Subrayada", sans-serif;
+}
+
+
+img{    
+    width: 65vw; // largura da imagem
+    height: 60vh; // altura da imagem
+    margin: 10px; // espaçamento externo 
+}
+h1{
+    font-family: "Montagu Slab", serif;
+}
+
+    main{  
+      //com somente um valor ele sera aplicado para os quatrolados 
+      // com dois valores, o primeiro dará espaço para cima e para baixo, os outros dois serão para direita e para esquerda
+      padding-left: 20px;
+    }
